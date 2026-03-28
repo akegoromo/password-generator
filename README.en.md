@@ -1,8 +1,4 @@
 
----
-
-## **README.en.md（英語版・完全版）**
-
 ```markdown
 # Password Generator
 
