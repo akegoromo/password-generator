@@ -1,5 +1,3 @@
-
-```markdown
 # Password Generator
 
 English | [日本語](./README.md)
