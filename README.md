@@ -87,7 +87,7 @@ function validatePassword(pwd, config, upperPool, lowerPool, numberPool) {
 
 ローカル開発:
 
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/akegoromo/password-generator.git
 cd password-generator
 # ブラウザでindex.htmlを開くか、任意の静的サーバーで配信
 python -m http.server 8000  # Pythonを使った例
